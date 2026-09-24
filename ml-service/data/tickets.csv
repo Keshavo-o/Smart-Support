@@ -1,0 +1,31 @@
+text,category,priority,sentiment
+"Unable to login to my account",Authentication,High,Negative
+"Password reset link is not working",Authentication,High,Negative
+"I forgot my account password",Authentication,Medium,Neutral
+"Login page keeps rejecting my credentials",Authentication,High,Negative
+"Cannot access my account after changing password",Authentication,High,Negative
+"How do I change my password?",Authentication,Low,Neutral
+"My payment was charged twice",Billing,High,Negative
+"I was charged for a subscription I cancelled",Billing,High,Negative
+"Invoice amount looks incorrect",Billing,Medium,Negative
+"How can I download my invoice?",Billing,Low,Neutral
+"My refund has not arrived yet",Billing,Medium,Negative
+"I want to update my billing information",Billing,Low,Neutral
+"The website is extremely slow",Technical,Medium,Negative
+"The application crashes when I upload a file",Technical,High,Negative
+"The dashboard is showing an error",Technical,Medium,Negative
+"Application keeps freezing",Technical,High,Negative
+"The export button does not work",Technical,Medium,Negative
+"How do I change the dashboard layout?",Technical,Low,Neutral
+"My internet connection keeps disconnecting",Network,High,Negative
+"VPN is not connecting",Network,High,Negative
+"I cannot access the company network",Network,High,Negative
+"Network speed is very slow",Network,Medium,Negative
+"WiFi connection drops frequently",Network,Medium,Negative
+"How can I configure the network settings?",Network,Low,Neutral
+"I want to change my profile name",Account,Low,Neutral
+"How do I update my phone number?",Account,Low,Neutral
+"My profile information is incorrect",Account,Medium,Negative
+"I cannot update my account details",Account,Medium,Negative
+"How can I delete my account?",Account,Low,Neutral
+"I need help updating my profile",Account,Low,Neutral
